@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73ea4c79-d97a-45bd-8cd7-66a65d19bb2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dummy-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mnhO26LIfocI2wVMAXYNN34ILZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ea4c79-d97a-45bd-8cd7-66a65d19bb2d" name="Default Changelist" comment="" />
+      <created>1610135226242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610135226242</updated>
+      <workItem from="1610135227741" duration="461000" />
+      <workItem from="1610135950187" duration="222000" />
+      <workItem from="1610139849549" duration="794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom" timestamp="1610139840519">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1610139840519" />
+    <state width="1419" height="205" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1610136038992" />
+    <state width="1419" height="205" key="GridCell.Tab.0.center" timestamp="1610139840518">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1610139840518" />
+    <state width="1419" height="205" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1610136038991" />
+    <state width="1419" height="205" key="GridCell.Tab.0.left" timestamp="1610139840517">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1610139840517" />
+    <state width="1419" height="205" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1610136038990" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right" timestamp="1610139840519">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1610139840519" />
+    <state width="1419" height="205" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1610136038992" />
+  </component>
+</project>
